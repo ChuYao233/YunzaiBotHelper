@@ -8,4 +8,4 @@
 
 使用方法：直接下载程序并使用程序部署Yunzai-Bot或将此程序移动至Yunzai-Bot V3的根目录
 
-Yunzai-Bo tGithub地址：https://github.com/Le-niao/Yunzai-Bot
+Yunzai-Bot Github地址：https://github.com/Le-niao/Yunzai-Bot
